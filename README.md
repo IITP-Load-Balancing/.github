@@ -1,3 +1,3 @@
-## This is not a actived repository
+## This is not an activated repository
 
 You don't need to visit here.
