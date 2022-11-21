@@ -3,8 +3,4 @@ last update : 2022.11.21. <br/>
 
 ## Participanting Institutions
 
-DGIST
-KIAPI
-한양대학교
-한국교통대학교
-iVH
+![image](https://user-images.githubusercontent.com/59792475/202974297-1c76545a-e602-4a8c-bc3a-1bf94706f66a.png)
