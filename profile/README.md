@@ -1,5 +1,5 @@
 # Welcome to the IITP Load-Balancing Project! 👋
-Last Update : 2022.11.21. <br/>
+Last Update : 2023.10.21. <br/>
 
 <img src = "https://user-images.githubusercontent.com/59792475/202995865-f58c2e7f-d56b-4cbd-83e1-91f8caaf5b4f.PNG" width="30%" height="30%">
 
